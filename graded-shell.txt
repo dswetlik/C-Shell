@@ -1,0 +1,26 @@
+<pre>
+Part I 
+	10/10   Basic Shell - Fork process, echo
+	20/20   Child Uses exec to run simple commands
+	20/20   Child run parameterized commands
+	10/10   Child run commands using path
+ 
+Built-ins
+	5/5  exit
+	5/5  setPath
+	5/5 getPath
+	10/10  History
+	5/5  ! and !!
+	
+System Command
+	5/5 lls System command
+	5/5 cpy command
+ 
+	-5 No Source for these?
+
+No make file -5
+
+90
+
+
+</pre>

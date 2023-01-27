@@ -1,0 +1,2 @@
+Everything should be working as intended. History is a little weird, but it works, along with !! and !#. History took a long time for me to implement, I just could not get it to work however I tried, and then I finally had a breakthrough.
+I did reach out to Robert for help once, otherwise I worked independently.
